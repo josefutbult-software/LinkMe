@@ -1,0 +1,5 @@
+{
+    "build_dir": "/home/josef/Projects/LinkMe/Example/.LinkMe/build",
+    "input": "/home/josef/Projects/LinkMe/Example/docs/example.md",
+    "output": "/home/josef/Projects/LinkMe/Example/.LinkMe/build/build.html"
+}
